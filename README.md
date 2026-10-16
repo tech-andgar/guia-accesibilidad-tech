@@ -99,7 +99,8 @@ No existe una lengua de señas universal. Un intérprete de ASL no puede interpr
 - [ ] **Entrega de material a intérpretes:** Compartir diapositivas, notas del ponente (*speaker notes*), agenda y glosario de términos técnicos (ej. *Kubernetes, Docker, GitOps, endpoints*) con mínimo **48 a 72 horas de anticipación**.
 - [ ] **Pruebas de iluminación:** Asegurar que el puesto del intérprete en tarima cuente con iluminación frontal directa, sin sombras ni reflectores que deslumbren a los asistentes.
 - [ ] **Ubicación de pantallas de subtítulos:** Si hay pantallas con subtítulos en vivo, ubicarlas a una altura adecuada y **lejos de reflectores de escenario** que laven la imagen y la hagan ilegible.
-- [ ] **Reserva de asientos:** Reservar asientos en primera fila con línea visual despejada simultánea hacia el ponente, la pantalla de proyección y el intérprete.
+- [ ] **Reserva de asientos en primera fila — obligatorio:** Reservar y señalizar físicamente (cartel o cinta) asientos en las primeras filas para personas Sordas e hipoacúsicas. El criterio no es solo "fila uno": debe ser el ángulo que permita ver **simultáneamente** al ponente, la pantalla de proyección y al intérprete sin girar la cabeza. Verificar esto en el ensayo previo al evento, no el día.
+  > **Por qué importa:** Una persona Sorda que usa intérprete no puede mirar al frente y al intérprete a la vez si están en ángulos opuestos. Si el intérprete está a la derecha del escenario y la pantalla al centro, un asiento lateral izquierdo impide seguir la sesión. El punto de reserva correcto lo define la geometría del recinto, no la costumbre.
 
 ### Fase 3: Durante el evento y Plan de Contingencia
 - [ ] **Uso estricto de micrófonos:** Nadie habla sin micrófono. Los ponentes deben repetir las preguntas del público antes de contestarlas para que el intérprete pueda traducirlas.
