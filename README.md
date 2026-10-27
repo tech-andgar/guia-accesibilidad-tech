@@ -45,6 +45,10 @@ Uno de los errores más graves en eventos técnicos es asumir que cualquier pers
 | **Marco ético**          | No está sujeto a un código deontológico gremial.                                     | Rige su práctica bajo códigos de ética y confidencialidad estrictos.                              |
 | **Aptitud para eventos** | **NO está cualificado** para interpretar conferencias o talleres técnicos.           | **SÍ está calificado** y es el único perfil idóneo para eventos de tecnología.                    |
 
+> **⚠️ Criterio de contratación: evitar agencias generalistas no acreditadas**  
+> Existe un riesgo recurrente al contratar agencias de eventos o empresas de *staffing* convencionales: con frecuencia subcontratan a personas que solo tienen nociones básicas de señas (señantes) sin formación profesional, certificación oficial ni dominio de terminología de software. Esto anula por completo la accesibilidad del evento.  
+> **Responsabilidad de la organización:** Exige siempre credenciales profesionales verificables (certificación oficial y experiencia comprobable en eventos técnicos). Si no conoces proveedores confiables, **solicita directamente al asistente Sordo sus contactos o agencias recomendadas**; la comunidad Sorda ya sabe quiénes dominan la jerga tecnológica.
+
 ---
 
 ## 3. Terminología y conceptos clave en español
@@ -103,10 +107,14 @@ No existe una lengua de señas universal. Un intérprete de ASL no puede interpr
 ### Fase 2: Coordinación técnica previa (1 a 2 semanas antes)
 
 - [ ] **Entrega de material a intérpretes:** Compartir diapositivas, notas del ponente (*speaker notes*), agenda y glosario de términos técnicos (ej. *Kubernetes, Docker, GitOps, endpoints*) con mínimo **48 a 72 horas de anticipación**.
-- [ ] **Pruebas de iluminación:** Asegurar que el puesto del intérprete en tarima cuente con iluminación frontal directa, sin sombras ni reflectores que deslumbren a los asistentes.
-- [ ] **Ubicación de pantallas de subtítulos:** Si hay pantallas con subtítulos en vivo, ubicarlas a una altura adecuada y **lejos de reflectores de escenario** que laven la imagen y la hagan ilegible.
+- [ ] **Fondo del escenario (Backdrop neutro):** Asegurar que detrás del intérprete haya un fondo visualmente limpio, mate y liso. Evitar ubicar al intérprete justo delante de pantallas LED con animaciones dinámicas, banners con letras pequeñas o luces parpadeantes que saturen la vista del asistente Sordo.
+- [ ] **Iluminación frontal fija:** Garantizar que el puesto del intérprete cuente con iluminación frontal directa y constante (nunca a contraluz ni bajo reflectores que deslumbren a la audiencia).
+- [ ] **Ubicación de pantallas de subtítulos (si aplica):** Colocar las pantallas de subtítulos a una altura ergonómica y **lejos de reflectores de escenario** que laven la imagen y dificulten la lectura.
+- [ ] **Contraste de subtítulos (CC):** Configurar subtítulos con alto contraste (ej. texto blanco o amarillo sobre fondo negro opaco) y tamaño legible, considerando a personas con baja visión o sordoceguera.
+- [ ] **Selección de agencia de intérpretes:** En caso de duda sobre qué agencia contratar, pedir directamente al asistente Sordo sus contactos o agencias de confianza. La comunidad local ya sabe quiénes son los profesionales idóneos para temas técnicos.
 - [ ] **Reserva de asientos y línea visual (Obligatorio):** Reservar y señalizar físicamente (con cartel o cinta) asientos en las primeras filas para personas Sordas e hipoacúsicas. **El criterio clave es la geometría del recinto, no solo estar adelante:** debe elegirse una ubicación que permita ver simultáneamente al intérprete, al ponente y a la pantalla de proyección en el mismo campo visual, sin giros forzados de cabeza. Verificar esta visibilidad durante el ensayo previo.
   > **Por qué importa:** Una persona Sorda no puede mirar al frente y al intérprete a la vez si están en extremos opuestos. Si el intérprete está a la derecha y la pantalla a la izquierda, la sesión se vuelve inaccesible. La ubicación reservada debe garantizar esa línea visual directa.
+
 
 ### Fase 3: Durante el evento y Plan de Contingencia
 
