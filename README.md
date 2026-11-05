@@ -51,7 +51,7 @@ Uno de los errores más graves en eventos técnicos es asumir que cualquier pers
 
 ---
 
-## 3. Terminología y conceptos clave en español
+## 3. Terminología, Protocolos de Interacción y Antipatrones comunes
 
 ### Identidad cultural y modelo social
 
@@ -91,6 +91,71 @@ No existe una lengua de señas universal. Un intérprete de ASL no puede interpr
 | *Talk / Charla*          | **Presentación / Ponencia / Sesión técnica**              | No limita la participación al acto vocal de "charlar".                         |
 | *Call for Speakers*      | **Convocatoria de Propuestas / Call for Proposals (CFP)** | Prioriza el valor de la propuesta técnica por sobre el habla oral.             |
 | *Keynote*                | **Conferencia magistral / Sesión plenaria**               | Terminología formal estandarizada.                                             |
+
+### Tabla Maestra de Buenas Prácticas: Términos, Comportamientos y Protocolos Operativos
+
+Esta tabla reúne los errores más comunes (muchas veces cometidos sin mala intención), el término o práctica correcta que debe adoptarse y la justificación técnica y humana de cada uno.
+
+#### 1. Terminología, Identidad y Conceptos Lingüísticos
+
+| Práctica / Término a Erradicar 🚫 | Práctica / Término Correcto ✅ | Justificación Técnica y Humana 💡 |
+|---|---|---|
+| *"Capacidades diferentes"* o *"especiales"* | **Persona con discapacidad / Persona Sorda** | Eufemismo paternalista. Oculta las barreras del entorno y desdibuja los derechos legales adquiridos en la convención de la ONU. |
+| *"Traductor de señas"* (en eventos en vivo) | **Intérprete de Lengua de Señas** | La traducción es un proceso asíncrono sobre textos escritos; la **interpretación** se ejecuta en tiempo real entre dos idiomas orales/gestuales. |
+| *"Lenguaje de señas"* | **Lengua de Señas** | La lengua es un idioma formal y estructurado con gramática propia; "lenguaje" lo reduce a un sistema de comunicación rudimentario. |
+| *"Sordomudo"* o *"Mudo"* | **Persona Sorda** | Término obsoleto y ofensivo. Las personas sordas tienen cuerdas vocales sanas y capacidad biológica de vocalizar. |
+| *"Sordito"* | **Persona Sorda** | Infantiliza a la persona y asume una postura de condescendencia. |
+| *"No oyente"* / *"Deficiente auditivo"* | **Persona Sorda / Persona hipoacúsica** | Define a la persona a partir de la carencia o el déficit médico (lo que "no" tiene), en vez de su identidad. |
+| *"Minusválido"* | **Persona con discapacidad / Persona Sorda** | Etimológicamente significa "de menor valor" (*minus-valía*). Inaceptable en cualquier contexto moderno. |
+| *"Personas normales"* (en contraste a sordos) | **Personas oyentes** | Decir "normales" insinúa implícitamente que las personas con discapacidad son anormales o defectuosas. |
+| *"Hacer señas"* / *"Mímica"* | **Señar / Comunicarse en Lengua de Señas** | Las señas no son pantomima, adivinanzas gestuales ni señas de tránsito; es la producción de un idioma formal. |
+| *"Lenguaje corporal"* como sinónimo de señas | **Lengua de Señas** | El lenguaje corporal es postura y ademán involuntario; la Lengua de Señas es un sistema lingüístico estructurado. |
+
+---
+
+#### 2. Dinámicas de Comunicación e Interacción Profesional
+
+| Práctica / Término a Erradicar 🚫 | Práctica / Término Correcto ✅ | Justificación Técnica y Humana 💡 |
+|---|---|---|
+| Hablarle y mirar al intérprete (*"Dile a él..."*) | **Mirar y hablar directamente a la persona Sorda** | El diálogo profesional es con la persona Sorda. El intérprete actúa como canal de mediación neutro. |
+| Atribuir las ideas al intérprete (*"El intérprete dijo..."*) | **Atribuir la idea al ponente (*"El ponente explicó..."*)** | Respeta la autoría intelectual del expositor Sordo sobre su código, ideas y arquitectura. |
+| Llamar al intérprete *"El ayudante / acompañante"* | **Intérprete profesional de Lengua de Señas** | El intérprete no es un cuidador ni un asistente personal; es un profesional de la mediación lingüística. |
+| Elogios con condescendencia (*"Para ser sordo, qué bien programas"*) | **Evaluar al colega por su talento y código, sin sesgos** | Microagresión común que asume que una persona Sorda tiene límites cognitivos o que el éxito es "parecer oyente". |
+| Tratar como *"Héroe, guerrero o ejemplo de vida"* | **Trato profesional entre pares técnicos** | Evita el *porno inspiracional*. Un profesional técnico asiste por su capacidad técnica, no para conmover a la audiencia. |
+| *"No importa / Después te cuento"* (Networking) | **Resumir brevemente e incluir a la persona en la plática** | Frase profundamente aislante (*síndrome de la mesa*). Comunica que la inclusión de esa persona no vale 15 segundos. |
+| Interrumpir el almuerzo/descanso del intérprete | **Respetar estrictamente los recesos del equipo de interpretación** | La interpretación técnica genera fatiga neurológica severa. Ese tiempo es biológicamente necesario para recuperar precisión. |
+| *"Enséñame groserías en señas"* | **Interesarse por el proyecto, código o cultura con respeto** | Reduce un idioma formal y una profesión técnica a un truco o chiste de fiesta (*party trick*). |
+| Gritar o gesticular la boca de forma exagerada | **Hablar a ritmo natural, articulado y mirando de frente** | Si la persona es Sorda profunda, gritar es inútil. Exagerar los movimientos bucales deforma la lectura labiofacial. |
+| Tocar bruscamente o empujar para llamar la atención | **Toque suave en el hombro o señal visual en campo periférico** | El contacto físico invasivo sobresalta. Basta con un toque sutil en el hombro o mover suavemente la mano en su rango visual. |
+| Sugerir cirugías (*"Ponte un implante y listo"*) | **Respetar la autonomía y enfocarse en la accesibilidad del entorno** | Los implantes no devuelven la audición natural y la inclusión no debe depender de que alguien modifique su cuerpo. |
+
+---
+
+#### 3. Logística Técnica, Audiovisual (AV) y Escenario
+
+| Práctica / Término a Erradicar 🚫 | Práctica / Término Correcto ✅ | Justificación Técnica y Humana 💡 |
+|---|---|---|
+| Ponente sin micrófono (*"No lo necesito, hablo fuerte"*) | **Uso obligatorio e innegociable de micrófono para todos** | Sin micrófono directo a consola, se anula el retorno de audio del intérprete y fallan los subtítulos en tiempo real (CART/IA). |
+| Apagar luces del recinto para *"ver mejor el proyector"* | **Spotlight o iluminación frontal fija exclusiva para el intérprete** | Si el intérprete queda en penumbras, la persona Sorda pierde el acceso completo a la sesión. |
+| Confundir sordera con ceguera (*"Material en Braille"*) | **Garantizar subtitulado de alto contraste e interpretación** | El Braille es un sistema de lectura táctil para personas ciegas; no tiene relación funcional con la comunidad Sorda. |
+| Pretender que *"solo lean los labios"* del ponente | **Garantizar interpretación y/o subtítulos profesionales** | La lectura labiofacial en español solo permite captar un 30-40% del mensaje y es inviable para terminología de software. |
+| Ocultar al intérprete en eventos virtuales (*"apaguen cámaras"*) | **Fijar (Pin / Spotlight) al intérprete en primer plano** | En llamadas remotas, el intérprete debe tener rol de co-anfitrión visible para todos de forma predeterminada. |
+| Pedir disculpas por la presencia del intérprete/subtítulos | **Integrar la accesibilidad con orgullo y naturalidad** | La accesibilidad no es un estorbo ni una molestia. Pedir perdón insinúa que el asistente con discapacidad incomoda al resto. |
+| Asignar asientos al frente sin considerar la geometría | **Garantizar línea visual simultánea (Ponente + Pantalla + Intérprete)** | Estar en primera fila no sirve si el intérprete está a la derecha y la pantalla a la izquierda, obligando a giros forzados de cuello. |
+| Subtítulos blancos sin fondo sobre diapositivas claras | **Subtítulos con alto contraste (ej. texto amarillo/blanco sobre caja negra)** | Permite la legibilidad en pantallas iluminadas y contempla a personas con baja visión o sordoceguera. |
+
+---
+
+#### 4. Gestión Operativa, Canales Digitales y Convocatoria
+
+| Práctica / Término a Erradicar 🚫 | Práctica / Término Correcto ✅ | Justificación Técnica y Humana 💡 |
+|---|---|---|
+| Enviar notas de voz en canales de chat (WhatsApp/Slack) | **Comunicarse exclusivamente en texto (o usar dictado por voz)** | Las notas de voz son inaccesibles y obligan al colega Sordo a buscar herramientas de transcripción de terceros. |
+| Alarmas de evacuación exclusivamente acústicas | **Instalar estrobos de luz parpadeante y protocolo de barrido humano** | Si ocurre un incendio o sismo, una sirena sonora deja a la persona Sorda en riesgo fatal en baños o pasillos. |
+| Canales de soporte o registro solo por llamada telefónica | **Canales de atención por texto (correo, WhatsApp, formulario web)** | Exigir llamadas telefónicas para resolver dudas o confirmar entradas bloquea el acceso desde el día cero. |
+| Exigir carné o certificado médico en eventos comunitarios | **Principio de buena fe en el formulario de inscripción** | Burocracia innecesaria (*gatekeeping*). Quien solicita el servicio en un evento técnico lo hace por necesidad real. |
+| Justificar fallas en la *"discapacidad invisible"* | **Capturar ajustes razonables desde el formulario de registro** | La necesidad no se "adivina" por la apariencia; se planifica mediante procesos formales con semanas de antelación. |
+| Promocionarse como *"Evento 100% inclusivo"* (Tokenismo) | **Informar con transparencia y rigor qué ajustes específicos existen** | La inclusión total no es un eslogan de marketing; vender falso cumplimiento defrauda las expectativas de la comunidad. |
 
 ---
 
