@@ -49,6 +49,8 @@ Uno de los errores más graves en eventos técnicos es asumir que cualquier pers
 > Existe un riesgo recurrente al contratar agencias de eventos o empresas de *staffing* convencionales: con frecuencia subcontratan a personas que solo tienen nociones básicas de señas (señantes) sin formación profesional, certificación oficial ni dominio de terminología de software. Esto anula por completo la accesibilidad del evento.  
 > **Responsabilidad de la organización:** Exige siempre credenciales profesionales verificables (certificación oficial y experiencia comprobable en eventos técnicos). Si no conoces proveedores confiables, **solicita directamente al asistente Sordo sus contactos o agencias recomendadas**; la comunidad Sorda ya sabe quiénes dominan la jerga tecnológica.
 
+> **Código visual y de vestimenta:** El intérprete debe vestir ropa lisa de un solo tono que contraste con su piel (generalmente oscura), sin accesorios distractores (anillos grandes, pulseras, joyas brillantes) para mantener el enfoque limpio en la lectura visual de las manos y el rostro.
+
 ---
 
 ## 3. Terminología, Protocolos de Interacción y Antipatrones comunes
